@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WishQuick</string>
+    <string name="enterName">Enter the Name</string>
+    <string name="Niranjan">Niranjan</string>
+    <string name="generate_birthday_card">Generate Birthday Card</string>
+    <string name="wish">A step closer to our bond. Happiest Birthday $name</string>
+    <string name="happiest_birthday">Happiest Birthday</string>
+    <string name="find_meme_materials">Find Meme Materials</string>
+    <string name="newsfeed">NewsFeed</string>
+    <string name="hello_bimal_bro_aka_bhura_vai">Hello bimal Bro aka bhura Vai</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/My apps/WishQuick/app/src/main/res/drawable/buttongradient.xml" value="0.172" />
+        <entry key="..\:/My apps/WishQuick/app/src/main/res/layout/memes_activity.xml" value="0.259375" />
+        <entry key="..\:/WishQuick/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22037037037037038" />
+        <entry key="..\:/WishQuick/app/src/main/res/drawable/WishQuick_foreground.xml" value="0.2755208333333333" />
+        <entry key="..\:/WishQuick/app/src/main/res/drawable/buttongradient.xml" value="0.2712820512820513" />
+        <entry key="..\:/WishQuick/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22037037037037038" />
+        <entry key="..\:/WishQuick/app/src/main/res/drawable/imagefailed.xml" value="0.22037037037037038" />
+        <entry key="..\:/WishQuick/app/src/main/res/drawable/wish.xml" value="0.22037037037037038" />
+        <entry key="..\:/WishQuick/app/src/main/res/layout/activity_birthdaycard.xml" value="0.4" />
+        <entry key="..\:/WishQuick/app/src/main/res/layout/activity_main.xml" value="0.2101851851851852" />
+        <entry key="..\:/WishQuick/app/src/main/res/layout/activity_news.xml" value="0.264" />
+        <entry key="..\:/WishQuick/app/src/main/res/layout/activity_news_feed.xml" value="0.259375" />
+        <entry key="..\:/WishQuick/app/src/main/res/layout/memes_activity.xml" value="0.259375" />
+        <entry key="..\:/WishQuick/app/src/main/res/layout/news_feed.xml" value="0.259375" />
+        <entry key="..\:/WishQuick/app/src/main/res/layout/news_item.xml" value="0.264" />
+        <entry key="..\:/WishQuick/app/src/main/res/layout/news_items.xml" value="0.259375" />
+        <entry key="..\:/WishQuick/app/src/main/res/mipmap-anydpi-v26/WishQuick.xml" value="0.22037037037037038" />
+        <entry key="..\:/WishQuick/app/src/main/res/mipmap-anydpi-v26/WishQuick_round.xml" value="0.14270833333333333" />
+        <entry key="..\:/WishQuick/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22037037037037038" />
+        <entry key="..\:/WishQuick/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22037037037037038" />
+        <entry key="..\:/WishQuick/app/src/main/res/mipmap-anydpi-v26/wishquick.xml" value="0.22037037037037038" />
+        <entry key="..\:/WishQuick/app/src/main/res/mipmap-anydpi-v26/wishquick_round.xml" value="0.22037037037037038" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.536" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
