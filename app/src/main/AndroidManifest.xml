@@ -17,9 +17,7 @@
         <activity
             android:name=".memes"
             android:exported="false" />
-        <activity
-            android:name=".birthdaycard"
-            android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">

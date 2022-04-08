@@ -17,34 +17,17 @@ class MainActivity : AppCompatActivity() {
         title = ""
 
         setContentView(R.layout.activity_main)
-        // removes status bar from the layout
-        // imported extra view window and window manager library for this function
-
-
-        // removes action bar from the activity
-        supportActionBar?.hide()
-
-
-        val input= stringName.editableText
-        birthdayCard.setOnClickListener {
-            Toast.makeText(this, "card is generating", Toast.LENGTH_SHORT).show()
-            val wish = Intent(this, birthdaycard::class.java)
-            wish.putExtra("name",input.toString())
-            startActivity(wish)
-        }
 
         memeMaterial.setOnClickListener {
-            Toast.makeText(this,"Opening Meme App",Toast.LENGTH_SHORT).show()
+            Toast.makeText(this,"Loading Memes",Toast.LENGTH_SHORT).show()
             val meme= Intent(this,memes::class.java)
             startActivity(meme)
         }
 
         newsButton.setOnClickListener {
-            Toast.makeText(this,"Opening Newz App",Toast.LENGTH_SHORT).show()
+            Toast.makeText(this,"Loading News",Toast.LENGTH_SHORT).show()
             val news = Intent(this,News::class.java)
             startActivity(news)
         }
-
     }
-
 }

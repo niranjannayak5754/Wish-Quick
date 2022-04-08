@@ -28,9 +28,6 @@ class memes : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.memes_activity)
 
-        supportActionBar?.hide()
-
-
         loadMeme()
         share.setOnClickListener {
             val send = Intent(Intent.ACTION_SEND)
@@ -75,7 +72,6 @@ class memes : AppCompatActivity() {
                 CurrentUrl = previousMeme[counter-i]
                 i++
             }
-            Toast.makeText(this, "Working Condition", Toast.LENGTH_SHORT).show()
         }
     }
 

@@ -8,4 +8,17 @@
     <string name="find_meme_materials">Find Meme Materials</string>
     <string name="newsfeed">NewsFeed</string>
     <string name="hello_bimal_bro_aka_bhura_vai">Hello bimal Bro aka bhura Vai</string>
+
+<!--    String array of news category-->
+
+    <string-array name="news_categories">
+        <item>general</item>
+        <item>business</item>
+        <item>entertainment</item>
+        <item>health</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>technology</item>
+    </string-array>
+
 </resources>
