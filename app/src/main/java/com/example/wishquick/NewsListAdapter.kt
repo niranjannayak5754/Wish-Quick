@@ -15,7 +15,7 @@ class NewsListAdapter( private val listener : NewsItemClicked):RecyclerView.Adap
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): NewsViewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.news_item,parent,false)
         val viewHolder = NewsViewHolder(view)
-        view.setOnClickListener { listener.onItemClicked(items[viewHolder.adapterPosition]) }
+        view.setOnClickListener { listener.onItemClicked(items[viewHolder.adapterPosition])}
         return  viewHolder
     }
 

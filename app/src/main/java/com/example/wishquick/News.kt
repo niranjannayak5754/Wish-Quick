@@ -76,12 +76,11 @@ class News : AppCompatActivity(), NewsItemClicked {
         )
         MySingleton.getInstance(this).addToRequestQueue(makeJsonRequest)
     }
-
     override fun onItemClicked(item: GetNews) {
         val builder = CustomTabsIntent.Builder()
 //        set toolbar color
         val params = CustomTabColorSchemeParams.Builder()
-        params.setToolbarColor(ContextCompat.getColor(this@News, R.color.cardview_dark_background))
+        params.setToolbarColor(ContextCompat.getColor(this@News, R.color.design_default_color_background))
         builder.setDefaultColorSchemeParams(params.build())
 
 //        view title of webpage in toolbar
